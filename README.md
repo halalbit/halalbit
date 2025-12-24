@@ -1,4 +1,4 @@
-I am a cs student at Paris Diredot, passionate by maths, philosophy and sports. I'm willing to make my existence meaningful
+I am a cs student at Paris Diderot, passionate by maths, philosophy and sports. I'm willing to make my existence meaningful
 <!--
 **halalbit/halalbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
